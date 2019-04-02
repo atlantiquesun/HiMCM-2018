@@ -1,3 +1,4 @@
+#by Jerry Yang
 #!/usr/bin/ruby
 
 class TempComputation
